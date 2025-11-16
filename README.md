@@ -31,7 +31,7 @@ This project provides insights to improve **sales performance and marketing effe
 - Highlight **gender and age group contributions** to sales.
 - Segment customers for **targeted marketing campaigns**.
 - Monitor trends, **ups and downs**, and calculate **year-over-year percentage changes**.
-- **[Click here to download the Power BI Dashboard file(.pbix)]([https://github.com/YasinSyed-2099/Customer-Segmentation-analysis/edit/main/Customer%20Segmentation%20Analysis%20.pbix)**
+- **[Click here to download the Power BI Dashboard file(.pbix)](https://github.com/YasinSyed-2099/Customer-Segmentation-analysis/edit/main/Customer%20Segmentation%20Analysis%20.pbix)**
 
 
 ### Dashboard
