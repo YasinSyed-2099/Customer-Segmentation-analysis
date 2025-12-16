@@ -1,4 +1,7 @@
 # Here's the result 
+
+![Customer Segmentation Dashboard](https://raw.githubusercontent.com/YasinSyed-2099/Customer-Segmentation-analysis/main/Customer%20Segmentation%20analysis%20Image.png)
+--- 
 ## Key Insights & Metrics
 
 ### Sales & Customer Trends (2021–2023)
@@ -18,6 +21,8 @@
 - **Sales Trend:** Growth is marginal at **+0.76% YoY**, stable but signaling a need for innovation in campaigns or product offerings.
 
 ---
-## Conclusion
+## Conclusion 
 The Istanbul market shows **steady performance and gender-driven trends**, with **women and older customers** as the most valuable segments.  
 Focusing on **fashion categories, seasonal campaigns, and loyalty programs** in top-performing malls like **Mall of Istanbul** and **Kanyon** will maximize revenue potential and strengthen customer engagement.
+
+## For full_project detail click me
