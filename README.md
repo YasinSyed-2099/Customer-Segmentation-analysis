@@ -25,4 +25,4 @@
 The Istanbul market shows **steady performance and gender-driven trends**, with **women and older customers** as the most valuable segments.  
 Focusing on **fashion categories, seasonal campaigns, and loyalty programs** in top-performing malls like **Mall of Istanbul** and **Kanyon** will maximize revenue potential and strengthen customer engagement.
 
-## For full_project detail click me
+## [For full_project detail click me](https://github.com/YasinSyed-2099/Customer-Segmentation-analysis/blob/main/detailed.md)
